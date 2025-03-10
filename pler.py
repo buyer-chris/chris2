@@ -28,11 +28,11 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('ᴄʜʀɪs', 't.me/devildantez'),
+        Button.url('ris', 't.me/ris_management'),
       ],
       [
-        Button.url('sᴜᴘᴘᴏʀᴛ', 't.me/SupprotRewe'),
-        Button.url('ᴜɴɪᴄᴏʀɴ', 't.me/unc108'),
+        Button.url('rezii', 't.me/rewetzy'),
+        Button.url('legacy', 't.me/LEGACYNIHBOS'),
       ],
     )
   )
